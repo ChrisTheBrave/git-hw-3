@@ -1,7 +1,7 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
 
 main {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     width: 39%;
     height: 90%;
     float: left;
@@ -115,5 +115,14 @@ h3 {
 }*/
 
 aside.price-info {
-  padding-top: 1em;
+  /*border: 1px solid black;*/
+  width: 39%;
+  right: 20px;
 }
+
+aside > ul.dropdowns {
+  text-align: center;
+}
+  /*.more-price-info{
+
+}*/
