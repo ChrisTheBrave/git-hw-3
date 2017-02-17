@@ -1,0 +1,49 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
+
+section{
+    border: 1px solid black;
+    width: 39%;
+    height: 90%;
+    float: left;
+    box-sizing: border-box;
+    margin: 2em;
+    display: inline;
+}
+
+/*.fa-refresh {
+  float: left;
+  width: 30%;
+  padding: 1em;
+  border-radius: 2em;
+  block: inline;
+}*/
+
+/*aside {
+  float: left;
+  width: 30%;
+  padding: 1em;
+  border-radius: 2em;
+}*/
+
+/*img {
+  float: left;
+    width: 30%;
+    padding: 1em;
+    border-radius: 2em;
+  }
+}*/
+
+.t-shirt {
+  float: left;
+  width: 30%;
+  padding: 1em;
+  border-radius: 2em;
+}
+
+/*a {
+  float: left;
+  width: 30%;
+  padding: 1em;
+  border-radius: 2em;
+  block: inline;
+}*/
