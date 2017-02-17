@@ -56,26 +56,31 @@ main {
   float: left;
   display: inline;
   margin-right: 1em
+  /*text-align: center;*/
 }
 
 .fa-refresh {
   float: left;
   display: inline;
   margin-right: 1em
+  /*text-align: center;*/
 }
 .fa-heart-o {
   float: left;
   display: inline;
   margin-right: 1em
+  /*text-align: center;*/
 }
 .letter {
   float: left;
   display: inline;
   margin-right: 1em
+  /*text-align: center;*/
 }
 .fa-shopping-cart {
   float: left;
   display: inline;
+  /*text-align: center;*/
 }
 /*ul > li .fa-shopping-cart {
   border: solid;
@@ -89,4 +94,26 @@ ul {
 
 .price-info{
   clear: both;
+  /*display: inline-block;*/
+}
+
+span {
+  float: right;
+}
+
+h3 {
+  padding-top: 1em;
+  display: inline;
+}
+
+/*li > a {
+  text-align: center;
+}*/
+
+/*.priceinfo {
+
+}*/
+
+aside.price-info {
+  padding-top: 1em;
 }
