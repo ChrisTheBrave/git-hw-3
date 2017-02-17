@@ -1,6 +1,6 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
 
-section{
+main {
     border: 1px solid black;
     width: 39%;
     height: 90%;
@@ -8,6 +8,7 @@ section{
     box-sizing: border-box;
     margin: 2em;
     display: inline;
+    padding-bottom: 2em
 }
 
 /*.fa-refresh {
@@ -35,7 +36,7 @@ section{
 
 .t-shirt {
   float: left;
-  width: 30%;
+  width: 90%;
   padding: 1em;
   border-radius: 2em;
 }
@@ -47,3 +48,45 @@ section{
   border-radius: 2em;
   block: inline;
 }*/
+.fa-retweet{
+  float: right;
+}
+
+.fa-square {
+  float: left;
+  display: inline;
+  margin-right: 1em
+}
+
+.fa-refresh {
+  float: left;
+  display: inline;
+  margin-right: 1em
+}
+.fa-heart-o {
+  float: left;
+  display: inline;
+  margin-right: 1em
+}
+.letter {
+  float: left;
+  display: inline;
+  margin-right: 1em
+}
+.fa-shopping-cart {
+  float: left;
+  display: inline;
+}
+/*ul > li .fa-shopping-cart {
+  border: solid;
+  padding: 2em;
+  list-style: none;
+}*/
+
+ul {
+  list-style-type: none;
+}
+
+.price-info{
+  clear: both;
+}
