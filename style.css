@@ -28,6 +28,7 @@ section {
 
 h3 {
   display: inline-block;
+  font-weight: 400;
 }
 
 span {
@@ -52,5 +53,9 @@ span {
 }
 
 .letter {
+  color: rgb(88, 180, 232);
+}
+
+aside.price-info {
   color: rgb(88, 180, 232);
 }
