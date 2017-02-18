@@ -1,128 +1,27 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
 
-main {
-    /*border: 1px solid black;*/
-    width: 39%;
-    height: 90%;
-    float: left;
-    box-sizing: border-box;
-    margin: 2em;
-    display: inline;
-    padding-bottom: 2em
+section {
+  border: 1px solid rgb(88, 180, 232);
+  text-align: center;
+  width: 350px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
-
-/*.fa-refresh {
-  float: left;
-  width: 30%;
-  padding: 1em;
-  border-radius: 2em;
-  block: inline;
-}*/
-
-/*aside {
-  float: left;
-  width: 30%;
-  padding: 1em;
-  border-radius: 2em;
-}*/
-
-/*img {
-  float: left;
-    width: 30%;
-    padding: 1em;
-    border-radius: 2em;
-  }
-}*/
 
 .t-shirt {
-  float: left;
-  width: 90%;
-  padding: 1em;
-  border-radius: 2em;
+  width: 70%;
 }
 
-/*a {
-  float: left;
-  width: 30%;
-  padding: 1em;
-  border-radius: 2em;
-  block: inline;
-}*/
-.fa-retweet{
-  float: right;
+.dropdowns{
+  padding-left: 0;
+  padding-right: 0;
 }
 
-.fa-square {
+.dropdowns li{
   float: left;
-  display: inline;
-  margin-right: 1em
-  /*text-align: center;*/
-}
-
-.fa-refresh {
-  float: left;
-  display: inline;
-  margin-right: 1em
-  /*text-align: center;*/
-}
-.fa-heart-o {
-  float: left;
-  display: inline;
-  margin-right: 1em
-  /*text-align: center;*/
-}
-.letter {
-  float: left;
-  display: inline;
-  margin-right: 1em
-  /*text-align: center;*/
-}
-.fa-shopping-cart {
-  float: left;
-  display: inline;
-  /*text-align: center;*/
-}
-/*ul > li .fa-shopping-cart {
-  border: solid;
-  padding: 2em;
-  list-style: none;
-}*/
-
-ul {
   list-style-type: none;
+  border: 1px solid rgb(88, 180, 232);
+  padding: 10px;
+  width: 20%;
+  box-sizing: border-box;
 }
-
-.price-info{
-  clear: both;
-  /*display: inline-block;*/
-}
-
-span {
-  float: right;
-}
-
-h3 {
-  padding-top: 1em;
-  display: inline;
-}
-
-/*li > a {
-  text-align: center;
-}*/
-
-/*.priceinfo {
-
-}*/
-
-aside.price-info {
-  /*border: 1px solid black;*/
-  width: 39%;
-  right: 20px;
-}
-
-aside > ul.dropdowns {
-  text-align: center;
-}
-  /*.more-price-info{
-
-}*/
