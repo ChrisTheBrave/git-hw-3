@@ -39,6 +39,7 @@ span {
 .fa-refresh {
   color: rgb(88, 180, 232);
   text-decoration: none;
+
 }
 
 .fa-square {
@@ -67,4 +68,24 @@ aside.price-info {
 
 li:hover {
   background-color: rgb(88, 180, 232);
+}
+
+.fa-refresh:hover {
+  color: rgb(234, 245, 247)
+}
+
+.fa-heart-o:hover {
+  color: rgb(234, 245, 247)
+}
+
+.letter:hover {
+  color: rgb(234, 245, 247)
+}
+
+.fa-square:hover {
+  color: rgb(234, 245, 247)
+}
+
+.fa-shopping-cart:hover {
+  color: rgb(234, 245, 247)
 }
