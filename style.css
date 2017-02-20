@@ -38,24 +38,33 @@ span {
 
 .fa-refresh {
   color: rgb(88, 180, 232);
+  text-decoration: none;
 }
 
 .fa-square {
   color: rgb(88, 180, 232);
+  text-decoration: none;
 }
 
 .fa-heart-o {
   color: rgb(88, 180, 232);
+  text-decoration: none;
 }
 
 .fa-shopping-cart {
   color: rgb(88, 180, 232);
+  text-decoration: none;
 }
 
 .letter {
   color: rgb(88, 180, 232);
+  text-decoration: none;
 }
 
 aside.price-info {
   color: rgb(88, 180, 232);
+}
+
+li:hover {
+  background-color: rgb(88, 180, 232);
 }
